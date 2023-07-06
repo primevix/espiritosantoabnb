@@ -1,0 +1,32 @@
+PlantaoFarmaciaItens = [
+  {
+    id: "1",
+    nome: "Farmácia Central",
+    data: "05/07/2023",
+    endereco: "R. Aristeu Borges de Aguiar, 19",
+    bairro: "Centro",
+    telefone: "2835424623",
+    plantao: "28999627328",
+    image: require("../src/image/farmacia.jpg"),
+  },
+  {
+    id: "2",
+    nome: "Bia Drogaria",
+    data: "06/07/2023",
+    endereco: "Av. Ministro Araripe, 204",
+    bairro: "Centro",
+    telefone: "2835424632",
+    plantao: "28999048682",
+    image: require("../src/image/farmacia.jpg"),
+  },
+  {
+    id: "3",
+    nome: "Drogaria Teste",
+    data: "07/07/2023",
+    endereco: "Av. Ministro Araripe, 204",
+    bairro: "Centro",
+    telefone: "2835424632",
+    plantao: "28999048682",
+    image: require("../src/image/farmacia.jpg"),
+  },
+];
