@@ -1,4 +1,3 @@
-PlantaoFarmaciaItens = [
   {
     id: "1",
     nome: "Farmácia Central",
@@ -28,5 +27,4 @@ PlantaoFarmaciaItens = [
     telefone: "2835424632",
     plantao: "28999048682",
     image: require("../src/image/farmacia.jpg"),
-  },
-];
+  }
