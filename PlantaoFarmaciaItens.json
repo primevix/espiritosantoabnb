@@ -1,4 +1,5 @@
-[  
+{
+  "farmacias": [  
   {
     "id" : "1",
     "nome" : "Farmácia Central",
@@ -27,3 +28,4 @@
     "plantao" : "28999627328",
   },
 ]
+}
