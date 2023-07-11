@@ -7,7 +7,7 @@
     "endereco" : "R. Aristeu Borges de Aguiar, 19",
     "bairro" : "Centro",
     "telefone" : "2835424623",
-    "plantao" : "28999627328",
+    "plantao" : "28999627328"
   },
   {
     "id" : "2",
@@ -16,7 +16,7 @@
     "endereco" : "R. Aristeu Borges de Aguiar, 19",
     "bairro" : "Centro",
     "telefone" : "2835424623",
-    "plantao" : "28999627328",
+    "plantao" : "28999627328"
   },
   {
     "id" : "3",
@@ -25,7 +25,7 @@
     "endereco" : "R. Aristeu Borges de Aguiar, 19",
     "bairro" : "Centro",
     "telefone" : "2835424623",
-    "plantao" : "28999627328",
-  },
+    "plantao" : "28999627328"
+  }
 ]
 }
